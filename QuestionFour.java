@@ -16,6 +16,9 @@ import java.util.Stack;
 //{[(])}
 
 //If brackets match we return YES, if not we return NO
+
+//Time complexity O(n)
+//Space complexity O(n)
 public class QuestionFour {
 
     public String isBalanced(String s) {
